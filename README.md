@@ -23,7 +23,7 @@ A check for ```40.94.27.42``` within the published Microsoft IPs did not result 
 
 BUT! When using [ASN-2-IP](https://github.com/aalex954/ASN-2-IP) to query for IPs associated with MSFT owned AS blocks a match was found!
 
-![image](https://github.com/aalex954/Evading-MSFT-EOP/assets/6628565/333fd5a0-17a8-434f-b98d-bb7cd10614f1)
+![image](https://user-images.githubusercontent.com/6628565/233574774-fdfeb143-8a32-4b40-9ac6-7cd1542ef6c4.jpg)
 
 _```40.94.27.42``` is contained in a MSFT owned subnet ```40.80.0.0/12```_
 
