@@ -1,7 +1,6 @@
 # Evading-MSFT-EOP
-Some research into MSFT EOP and how to trick it.
 
-## Original Intent: 
+## Objective: 
 To bypass Microsoft Exchange Online Protection / Safe Links during phishing engagements by recognizing known EOP IPs and presenting an alternative web page. 
 
 ## Findings
